@@ -8,9 +8,15 @@ i=i+1 #increment
 print("End")
 '''
 
-i=1
-var = input("Enter your name: ")
 
-while i <= 100:
-    print(var + " is :" , i)
-    i = i+3
+sNum = int(input("Enter start number: ")) # 1
+eNum = int(input("Enter end number: "))  # 10
+
+sum = 0
+
+while sNum < eNum: # 1 < 10
+    sum = sum + sNum  # 0 = 0 + 1
+    print(sNum, end=" + ") # 1 + 2 +
+    sNum = sNum + 1 # 2
+
+print(sum,  " = ", sNum + sum)

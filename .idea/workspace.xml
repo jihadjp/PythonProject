@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90d01573-2044-49f7-aeb2-9e0fad7a0f0f" name="Changes" comment="Done 10 videos">
-      <change afterPath="$PROJECT_DIR$/pg13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pg14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pg6.py" afterDir="false" />
+    <list default="true" id="90d01573-2044-49f7-aeb2-9e0fad7a0f0f" name="Changes" comment="Done 12 videos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg14.py" beforeDir="false" afterPath="$PROJECT_DIR$/pg14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +142,7 @@
       <workItem from="1775914562172" duration="1008000" />
       <workItem from="1776069307814" duration="1174000" />
       <workItem from="1778428205500" duration="4861000" />
-      <workItem from="1778514970010" duration="2553000" />
+      <workItem from="1778514970010" duration="5376000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -170,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778432928873</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done 12 videos">
+      <option name="closed" value="true" />
+      <created>1778520228917</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778520228917</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +197,8 @@
     <MESSAGE value="initial" />
     <MESSAGE value="Done problem 1" />
     <MESSAGE value="Done 10 videos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done 10 videos" />
+    <MESSAGE value="Done 12 videos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done 12 videos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -208,7 +215,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$pg5.coverage" NAME="pg5 Coverage Results" MODIFIED="1778432884534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$P1.coverage" NAME="P1 Coverage Results" MODIFIED="1778519088548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$pg2.coverage" NAME="pg2 Coverage Results" MODIFIED="1778431386110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$pg14.coverage" NAME="pg14 Coverage Results" MODIFIED="1778520060117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$pg14.coverage" NAME="pg14 Coverage Results" MODIFIED="1778522980500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$Problem1.coverage" NAME="Problem1 Coverage Results" MODIFIED="1770263560238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$pg1.coverage" NAME="pg1 Coverage Results" MODIFIED="1778430152579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1770262460047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
